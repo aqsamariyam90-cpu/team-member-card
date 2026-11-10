@@ -10,31 +10,31 @@ function App() {
         },
         {
             id: 2,
-            name: "Ali Ahmed",
+            name: "Ahmed Ali",
             role: "Backend Developer",
             description: "I work with server-side development."
         },
         {
             id: 3,
-            name: "Sara Khan",
+            name: "Zara Khan",
             role: "UI Designer",
             description: "I enjoy designing simple interfaces."
         },
         {
             id: 4,
-            name: "Ahmed Raza",
+            name: "Atif",
             role: "Web Developer",
             description: "I create responsive websites."
         },
         {
             id: 5,
-            name: "Ayesha Noor",
+            name: "Amna Shahid",
             role: "Graphic Designer",
             description: "I create creative graphic designs."
         },
         {
             id: 6,
-            name: "Usman Ali",
+            name: "Zeeshan ",
             role: "React Developer",
             description: "I build user interfaces using React."
         }
