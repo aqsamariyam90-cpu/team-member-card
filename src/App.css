@@ -1,0 +1,24 @@
+.member-card {
+    text-align: center;
+    height: 100%;
+    border: 1px solid #ddd;
+}
+.member-photo {
+    height: 120px;
+    background-color: #e9eff2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #555;
+    font-size: 18px;
+}
+.member-card h3 {
+    font-size: 21px;
+    color: #333;
+}
+.member-card h5 {
+    color: #4a90a4;
+}
+.member-card p {
+    color: #666;
+}
