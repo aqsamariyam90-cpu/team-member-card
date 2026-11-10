@@ -22,3 +22,13 @@
 .member-card p {
     color: #666;
 }
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 25px;
+    }
+}
